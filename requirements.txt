@@ -1,0 +1,2 @@
+# No third-party dependencies required.
+# whoami_token.py runs on standard Python 3.8+ (base64, json, sys, datetime).
